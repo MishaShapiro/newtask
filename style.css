@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Inter, sans-serif;
 }
 
 :root {
@@ -36,7 +37,7 @@
 }
 
 .info {
-    margin-right: 78px;
+    margin-right: 53px;
 }
 
 .info__container {
@@ -82,13 +83,13 @@
 
 .button {
     align-self: center;
-    margin-top: 2px;
+    margin-top: 3px;
 }
 
 .btn {
     background-color: #F4F8FF;
     border: 0px;
-    padding: 10px 34px 10px 26px;
+    padding: 10px 27px 10px 25px;
     gap: 10px;
     border-radius: 6px 6px 6px 6px;
     opacity: 0px;
